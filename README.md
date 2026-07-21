@@ -891,15 +891,15 @@ The demonstration video can showcase:
 
 **Live Demo:**
 
-'https://ai-organ-availability-prediction-priyadharshini4.vercel.app'
+https://ai-organ-availability-prediction-priyadharshini4.vercel.app
 
 **Backend API:**
 
-`https://ai-organ-availability-prediction.onrender.com`
+https://ai-organ-availability-prediction.onrender.com
 
 **GitHub Repository:**
 
-`https://github.com/priyadharsini-2006/AI-Organ-Availability-Prediction`
+https://github.com/priyadharsini-2006/AI-Organ-Availability-Prediction
 
 ---
 
