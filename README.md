@@ -869,7 +869,7 @@ Recommended screenshots:
 
 **Public Demo Video:**
 
-`<ADD_PUBLIC_DEMO_VIDEO_LINK>`
+https://youtu.be/_ZFuy3kyUhY?si=9KD4chB_Mu_2APo6
 
 The demonstration video can showcase:
 
